@@ -12,7 +12,7 @@ Unshared Destinations: Discover destinations neither airline shares.
 Duplicate Entries Cleanup
 
 Getting Started
-Clone the repository: git clone https://github.com/yourusername/python-sets-adventure.git
+Clone the repository: git clone https://github.com/Aubry77/mod-3-lesson-3-sets.git
 
 Navigate to the project directory: cd python-sets-adventure
 
